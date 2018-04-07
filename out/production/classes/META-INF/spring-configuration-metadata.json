@@ -1,0 +1,33 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.xgh.hbase.HBaseProperties",
+      "name": "spring.data.hbase",
+      "type": "com.xgh.hbase.HBaseProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.xgh.hbase.HBaseProperties",
+      "defaultValue": 0,
+      "name": "spring.data.hbase.client-port",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.xgh.hbase.HBaseProperties",
+      "name": "spring.data.hbase.root-dir",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xgh.hbase.HBaseProperties",
+      "name": "spring.data.hbase.zk-base-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xgh.hbase.HBaseProperties",
+      "name": "spring.data.hbase.zk-quorum",
+      "type": "java.lang.String"
+    }
+  ]
+}
